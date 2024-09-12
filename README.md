@@ -46,6 +46,7 @@ Commands: python ec2_name_generator.py
 Example
 
 Enter the number of EC2 instance names to generate: 3
+
 Available Departments:
 1. Finance
 2. Marketing
@@ -62,6 +63,7 @@ Generated EC2 Names:
 Engineering-a1B2c3
 Engineering-XyZ9wP
 Engineering-7kJ1lZ
+
 Contributing
 
 If you have suggestions or improvements for the project, feel free to contribute by opening issues or submitting pull requests.
