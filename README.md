@@ -1,5 +1,5 @@
-EC2 Random Name Generator 🐍
-Project Overview 🚀
+EC2 Random Name Generator 
+Project Overview
 This Python script generates unique EC2 instance names to help teams easily identify their resources. It’s designed for environments where multiple departments share AWS resources, ensuring that each EC2 instance has a distinct and easily identifiable name.
 
 Features
